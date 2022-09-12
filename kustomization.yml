@@ -7,5 +7,3 @@ resources:
   - logstash.yml
   - apm-server.yml
   - beats/metricbeat.yml
-  - beats/auditbeat.yml
-  - beats/filebeat.yml
